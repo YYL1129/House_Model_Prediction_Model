@@ -17,9 +17,9 @@ This project is a beginner machine learning classifier that predicts whether a h
 
 | File Name                                  | Description                                |
 |--------------------------------------------|--------------------------------------------|
-| `Simple_ML_classifier_Train_Model_Part_1.ipynb` | Trains the model using fake housing data    |
+| `Simple ML classifier-Train Model Part 1.ipynb` | Trains the model using fake housing data    |
 | `house_model.pkl`                          | Trained RandomForestClassifier model       |
-| `Simple_ML_classifier_Predict_Model_Part_2.ipynb` | Loads model & predicts new house input     |
+| `Train Model Part 2.ipynb` | Loads model & predicts new house input     |
 
 ---
 
